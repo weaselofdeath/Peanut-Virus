@@ -1,0 +1,11 @@
+C:\Users\Weasel\Desktop\SmodEventTest\SmodEventTest\bin\Debug\Peanut Mountain.dll
+C:\Users\Weasel\Desktop\SmodEventTest\SmodEventTest\bin\Debug\Peanut Mountain.pdb
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PlagueCurse\PlagueCurse\obj\Debug\PeanutMountain.csproj.CoreCompileInputs.cache
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PlagueCurse\PlagueCurse\obj\Debug\PeanutMountain.csproj.CopyComplete
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PlagueCurse\PlagueCurse\obj\Debug\Peanut Mountain.dll
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PlagueCurse\PlagueCurse\obj\Debug\Peanut Mountain.pdb
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PlagueCurse\PlagueCurse\obj\Debug\PeanutMountain.csprojAssemblyReference.cache
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PeanutMountain\PlagueCurse\obj\Debug\PeanutMountain.csproj.CoreCompileInputs.cache
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PeanutMountain\PlagueCurse\obj\Debug\PeanutMountain.csproj.CopyComplete
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PeanutMountain\PlagueCurse\obj\Debug\Peanut Mountain.dll
+C:\Users\Weasel\Desktop\SCPSL-Gamemode-Manager-2.1\Gamemodes\PeanutMountain\PlagueCurse\obj\Debug\Peanut Mountain.pdb
